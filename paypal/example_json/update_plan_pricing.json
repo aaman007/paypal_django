@@ -1,0 +1,12 @@
+{
+  "pricing_schemes": [{
+    "billing_cycle_sequence": 2,
+    "pricing_scheme": {
+      "fixed_price": {
+        "value": "50",
+        "currency_code": "USD"
+        }
+      }
+    }
+  ]
+}
